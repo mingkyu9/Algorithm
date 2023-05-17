@@ -1,6 +1,6 @@
 package chap05;
 
-public class QueenB {
+public class QueenB1 {
 	static int[] pos=new int[8];
 	
 	static void print() {

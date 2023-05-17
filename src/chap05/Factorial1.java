@@ -2,7 +2,7 @@ package chap05;
 
 import java.util.Scanner;
 
-public class Factorial {
+public class Factorial1 {
 	static int factorial(int n) {
 		if(n>0) {
 			return n*factorial(n-1);

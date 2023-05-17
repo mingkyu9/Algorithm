@@ -1,6 +1,6 @@
 package chap05;
 
-public class QueenBB {
+public class QueenBB1 {
 	static boolean[] flag=new boolean[8];
 	static int[]pos=new int[8];
 	
