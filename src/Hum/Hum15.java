@@ -3,7 +3,7 @@ package Hum;
 public class Hum15 {
 
 	public static void main(String[] args) {
-		System.out.println("Mo");
+		System.out.println("Mom");
 	}
 
 }
