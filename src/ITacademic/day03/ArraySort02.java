@@ -1,19 +1,18 @@
-package ITacademic;
+package ITacademic.day03;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
-public class ArraySort03 {
+public class ArraySort02 {
 
 	public static void main(String[] args) {
-		Integer[] arr=new Integer[10];
+		int[] arr=new int[10];
 		
 		for(int i=0;i<arr.length;i++) {
 			arr[i]=(int)(Math.random()*20)+1;
 		}
 		System.out.println("정렬 전: "+Arrays.toString(arr));
 		
-		Arrays.sort(arr,Comparator.reverseOrder());
+		Arrays.sort(arr);
 		
 		System.out.println("정렬 후: "+Arrays.toString(arr));
 	}

@@ -1,4 +1,4 @@
-package ITacademic;
+package ITacademic.day03;
 
 public class DoubleForTest01 {
 

@@ -1,4 +1,4 @@
-package ITacademic;
+package ITacademic.day03;
 
 import java.util.Arrays;
 
